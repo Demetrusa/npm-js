@@ -1,0 +1,26 @@
+{
+  "type": "module",
+  "name": "npm",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "data-uri-to-buffer": "^4.0.0",
+    "moment": "^2.29.1",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Demetrusa/npm-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Demetrusa/npm-js/issues"
+  },
+  "homepage": "https://github.com/Demetrusa/npm-js#readme"
+}
